@@ -1,0 +1,16 @@
+﻿生成启动时间为 2022-05-23 22:12:08。
+     1>项目“C:\Users\Administrior\Documents\Visual Studio 2010\Projects\libcalc\libcalc\libcalc.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\libcalc.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrior\Documents\Visual Studio 2010\Projects\libcalc\Debug\libcalc.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\libcalc.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrior\Documents\Visual Studio 2010\Projects\libcalc\Debug\libcalc.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrior\Documents\Visual Studio 2010\Projects\libcalc\Debug\libcalc.lib" /MACHINE:X86 Debug\main.obj
+         LINK : 没有找到 C:\Users\Administrior\Documents\Visual Studio 2010\Projects\libcalc\Debug\libcalc.exe 或上一个增量链接没有生成它；正在执行完全链接
+     1>LINK : fatal error LNK1561: 必须定义入口点
+     1>已完成生成项目“C:\Users\Administrior\Documents\Visual Studio 2010\Projects\libcalc\libcalc\libcalc.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.80
